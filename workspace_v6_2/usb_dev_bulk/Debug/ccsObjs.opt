@@ -1,0 +1,1 @@
+"./startup_ccs.obj" "./usb_bulk_structs.obj" "./usb_dev_bulk.obj" "./utils/uartstdio.obj" "./utils/ustdlib.obj" "../usb_dev_bulk_ccs.cmd" -llibc.a -l"C:/StellarisWare/driverlib/ccs-cm4f/Debug/driverlib-cm4f.lib" -l"C:/StellarisWare/usblib/ccs-cm4f/Debug/usblib-cm4f.lib" 
